@@ -1,6 +1,8 @@
 #ifndef PARSER_H
 #define PARSER_H
 
+#include <string.h>
+#include <stdio.h>
 #define CONFIG_ARG_MAX_BYTES 128
 
 typedef struct config_option config_option;

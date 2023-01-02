@@ -1,0 +1,3 @@
+FILES = BuildFile.c,BuildFile.h,main.c,Parser.h
+COMPILER = gcc
+FLAGS = -O2,-s
