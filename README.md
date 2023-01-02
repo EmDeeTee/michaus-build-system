@@ -11,3 +11,6 @@ FLAGS = -s,-O2
  ```
  
  Run michaus-build-system binary in the same folder as you mbs file 
+ 
+ # Building
+ CMake can be used to compile MBS. But it can also be compiled using itself
